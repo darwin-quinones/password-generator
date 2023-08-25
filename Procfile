@@ -1,1 +1,0 @@
-web: gunicorn django_password_generator.wsgi --log-file -
